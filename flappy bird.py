@@ -1,5 +1,5 @@
-import random # For generating random numbers
-import sys # exit the program
+import random #  generating random numbers
+import sys #to exit the program
 import pygame #pip install pygame
 from pygame.locals import * 
 # Global Variables for the game
